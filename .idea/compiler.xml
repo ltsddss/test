@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="leetcode725_分隔链表" />
+        <module name="leetcode500_键盘行" />
+        <module name="leetcode1936_新增的最少台阶数" />
+        <module name="leetcode1394_找出数组中的幸运数" />
+        <module name="leetcode1221_分割平衡字符串" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
