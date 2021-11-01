@@ -16,6 +16,9 @@
         <module>leetcode1394_找出数组中的幸运数</module>
         <module>leetcode1395_统计作战单位数</module>
         <module>leetcode575_分糖果</module>
+        <module>leetcode830_较大分组的位置</module>
+        <module>leetcode831_隐藏个人信息</module>
+        <module>leetcode829_连续整数和</module>
     </modules>
 
 

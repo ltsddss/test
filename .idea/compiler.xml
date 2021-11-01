@@ -6,6 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="leetcode829_连续整数和" />
+        <module name="leetcode831_隐藏个人信息" />
         <module name="leetcode1221_分割平衡字符串" />
         <module name="leetcode725_分隔链表" />
         <module name="leetcode575_分糖果" />
@@ -13,6 +15,7 @@
         <module name="leetcode500_键盘行" />
         <module name="leetcode1395_统计作战单位数" />
         <module name="leetcode1936_新增的最少台阶数" />
+        <module name="leetcode830_较大分组的位置" />
       </profile>
     </annotationProcessing>
   </component>
