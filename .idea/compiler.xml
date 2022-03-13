@@ -28,6 +28,7 @@
         <module name="leetcode5934_找到和最大的长度为 K 的子序列" />
         <module name="leetcode5918_统计字符串中的元音子字符串" />
         <module name="leetcode519_随机反转矩阵" />
+        <module name="leetcode393_" />
         <module name="面试题 04.08. 首个共同祖先" />
         <module name="leetcode1717_删除子字符串的最大得分" />
         <module name="leetcode5938_找出数组排序后的目标下标" />
@@ -93,6 +94,7 @@
         <module name="leetcode1019_链表中的下一个更大节点" />
         <module name="leetcode1209_删除字符串中的所有相邻重复项 II" />
         <module name="leetcode590_" />
+        <module name="leetcode2195_" />
         <module name="leetcode717_1比特与2比特字符" />
         <module name="leetcode299_猜数字游戏" />
       </profile>
