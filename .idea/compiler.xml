@@ -70,11 +70,13 @@
         <module name="leetcode700_二叉搜索树中的搜索" />
         <module name="leetcode829_连续整数和" />
         <module name="leetcode500_键盘行" />
+        <module name="leetcode141_" />
         <module name="leetcode794_有效的井字游戏" />
         <module name="leetcode397_整数替换" />
         <module name="leetcode5992_统计出现过一次的公共字符串" />
         <module name="leetcode5910_检查两个字符串是否几乎相等" />
         <module name="leetcode5920_分配给商店的最多商品的最小值" />
+        <module name="leetcode599_" />
         <module name="leetcode1025_除数博弈" />
         <module name="leetcode1005_K次取反后最大的数组和" />
         <module name="leetcode859_亲密字符串" />
