@@ -45,6 +45,7 @@
         <module name="leetcode726_原子的数量" />
         <module name="leetcode5919_所有子字符串中的元音" />
         <module name="leetcode5940_从数组中移除最大值和最小值" />
+        <module name="leetcode2044_" />
         <module name="leetcode1936_新增的最少台阶数" />
         <module name="leetcode407_接雨水" />
         <module name="leetcode5923_从房屋收集雨水需要的最少水桶数" />
